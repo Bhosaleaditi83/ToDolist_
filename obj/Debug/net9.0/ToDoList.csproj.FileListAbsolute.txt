@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Documents\Deloitte\ToDoList\obj\Debug\net9.0\ToDoList.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Deloitte\ToDoList\obj\Debug\net9.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Deloitte\ToDoList\obj\Debug\net9.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Deloitte\ToDoList\obj\Debug\net9.0\ToDoList.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Deloitte\ToDoList\obj\Debug\net9.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Deloitte\ToDoList\obj\Debug\net9.0\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Documents\Deloitte\ToDoList\obj\Debug\net9.0\ToDoList.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Documents\Deloitte\ToDoList\obj\Debug\net9.0\ToDoList.RazorAssemblyInfo.cs
